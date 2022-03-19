@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T22:40:08.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="ZrUUmEVKcLAAc2KlvuoL" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T22:53:39.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="nq87KDiKoUqJ8NJBc0nb" version="14.8.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-1" value="Person" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-2" value="Mitarbeiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-3" value="Unternehmen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-4" value="Kontaktpartner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-5" value="Abteilung" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-6" value="Adresse" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-7" value="Land" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-8" value="Branche" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-9" value="Groesse" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-10" value="Event" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-11" value="Eventsart" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-12" value="Datum" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7nVZIDCWMMlRfdBkHSqP-13" value="Uhrzeit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
